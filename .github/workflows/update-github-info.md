@@ -15,6 +15,7 @@ network:
   allowed:
     - github.blog
     - github.com
+    - awesome-copilot.github.com
 
 safe-outputs:
   create-pull-request:
@@ -30,9 +31,10 @@ Keep Mona's GitHub Info website current with practical, official GitHub updates.
 ## Sources and context
 
 1. Read `notes/mona-notes.md` and `site/content/github-info.md` before making changes.
-2. Use web-fetch to read both of these pages on every run:
-   - https://github.blog/latest/
-   - https://github.blog/changelog/
+2. Use web-fetch to read each of these pages on every run:
+    - https://github.blog/latest/
+    - https://github.blog/changelog/
+    - https://awesome-copilot.github.com/workflows/
 3. Select only recent items that are relevant to the website's existing themes and useful to developers learning GitHub. Verify each item's date and details from its official source. Do not invent or infer unsupported claims.
 
 ## Update
