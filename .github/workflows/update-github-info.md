@@ -18,6 +18,7 @@ network:
     - awesome-copilot.github.com
 
 safe-outputs:
+  report-failure-as-issue: false
   create-pull-request:
     title-prefix: "Update GitHub info: "
     draft: false
