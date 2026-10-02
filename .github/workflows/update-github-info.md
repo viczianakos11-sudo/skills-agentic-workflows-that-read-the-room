@@ -18,6 +18,7 @@ network:
     - awesome-copilot.github.com
 
 safe-outputs:
+  report-failure-as-issue: false
   create-pull-request:
     title-prefix: "Update GitHub info: "
     draft: false
@@ -47,3 +48,10 @@ Keep Mona's GitHub Info website current with practical, official GitHub updates.
 ## Review
 
 When the file changes, use the `create-pull-request` safe output to open one pull request for Mona to review. Summarize the updates and include their official source links in the pull request description. Do not write directly to the default branch or use any other mechanism to publish changes.
+
+## Latest updates
+
+- New agentic workflow examples are available in the Awesome Copilot collection.
+  Source: https://awesome-copilot.github.com/workflows/
+- Recent GitHub product news is published on the GitHub Blog.
+  Source: https://github.blog/
