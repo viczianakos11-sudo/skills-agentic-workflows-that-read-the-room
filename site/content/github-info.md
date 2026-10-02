@@ -22,3 +22,11 @@ Mona's website focuses on practical GitHub guidance backed by official reference
   Source: https://awesome-copilot.github.com/workflows/
 - Recent GitHub product news is published on the GitHub Blog.
   Source: https://github.blog/
+
+
+## Recommended reading
+
+- Browse community-built agentic workflow examples in Awesome Copilot.
+  Source: https://awesome-copilot.github.com/workflows/
+- Follow GitHub Copilot announcements on the GitHub Blog.
+  Source: https://github.blog/
